@@ -1,0 +1,8 @@
+{
+  "name": "Monochrome AI Interview",
+  "description": "A state-of-the-art, minimal, black-and-white AI interview platform with anti-cheat intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
